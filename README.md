@@ -49,7 +49,7 @@ python project_name.py
 
 ## Project Structure
 
-Each Python file is an independent project that can be run separately. No additional dependencies are required unless specified in the individual project files[4].
+Each Python file is an independent project that can be run separately. No additional dependencies are required unless specified in the individual project files.
 
 ## Contributing
 
